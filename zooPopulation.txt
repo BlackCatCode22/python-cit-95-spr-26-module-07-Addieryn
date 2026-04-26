@@ -1,0 +1,32 @@
+
+Zookeeper's challenge
+
+Current Zoo Population:
+
+Hyenas Habitat:
+
+Hy01, 4, Shenzi; birthdate: 2022-03-01; tan color; female; 70; Laugh: Hehe; from Friguia Park, Tunisia; arrived: 2026-04-26
+Hy02, 12, Banzai; birthdate: 2014-09-01; brown color; male; 150; Laugh: Hehe; from Friguia Park, Tunisia; arrived: 2026-04-26
+Hy03, 4, Ed; birthdate: 2022-03-01; black color; male; 120; Laugh: Hehe; from Friguia Park, Tunisia; arrived: 2026-04-26
+Hy04, 8, Zig; birthdate: 2018-01-01; black and tan striped color; female; 105; Laugh: Hehe; from Friguia Park, Tunisia; arrived: 2026-04-26
+
+Lions Habitat:
+
+Li01, Scar; birthdate: 2020-03-01; tan color; female; 300; Roar: Roarrr; from Zanzibar, Tanzania; arrived: 2026-04-26
+Li02, Mufasa; birthdate: 2014-12-01; dark tan color; female; 375; Roar: Roarrr; from KopeLion, Tanzania; arrived: 2026-04-26
+Li03, Simba; birthdate: 2004-09-01; golden color; male; 450; Roar: Roarrr; from Zanzibar, Tanzania; arrived: 2026-04-26
+Li04, Kiara; birthdate: 2022-03-01; tan and brown color; female; 275; Roar: Roarrr; from KopeLion, Tanzania; arrived: 2026-04-26
+
+Tigers Habitat:
+
+Ti01, Tony; birthdate: 2024-03-01; gold and tan stripes color; male; 270; Roar: Mew; from Dhaka, Bangladesh; arrived: 2026-04-26
+Ti02, Tigger; birthdate: 2022-03-01; black stripes color; female; 400; Roar: Mew; from Dhaka, Bangladesh; arrived: 2026-04-26
+Ti03, Amber; birthdate: 2008-09-01; gold and tan color; male; 300; Roar: Mew; from Bardia, Nepal; arrived: 2026-04-26
+Ti04, Cosimia; birthdate: 2023-03-01; black stripes color; female; 285; Roar: Mew; from Bardia, Nepal; arrived: 2026-04-26
+
+Bears Habitat:
+
+Be01, Yogi; birthdate: 2019-03-01; brown color; male; 320; Roar: grmmm; from Alaska Zoo, Alaska; arrived: 2026-04-26
+Be02, Smokey; birthdate: 2001-03-01; black color; female; 425; Roar: grmmm; from Woodland park Zoo, Washington; arrived: 2026-04-26
+Be03, Paddington; birthdate: 2022-09-01; black color; female; 355; Roar: grmmm; from Woodland park Zoo, Washington; arrived: 2026-04-26
+Be04, Lippy; birthdate: 2022-03-01; brown color; male; 405; Roar: grmmm; from Alaska Zoo, Alaska; arrived: 2026-04-26
